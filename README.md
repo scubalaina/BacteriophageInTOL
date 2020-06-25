@@ -6,6 +6,6 @@ alignments - contains alignment files specified as .fa; trim0_ refers to the per
 
 trees - contains tree files used for different alignments
 
-mReC_contigs - contains a nucleotide sequence file (.fna) and amino acid sequences file (.faa) ofthe mReC contigs together
+mReC_contigs - contains a nucleotide sequence file (.fna) and amino acid sequences file (.faa) of the mReC contigs together
 
 scripts
