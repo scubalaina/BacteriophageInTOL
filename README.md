@@ -10,4 +10,4 @@ trees - contains tree files used of alignments
 
 mReC_contigs - contains a nucleotide sequence file (.fna) and amino acid sequences file (.faa) of the mReC contigs together
 
-scripts
+code - scripts used for data analyses
